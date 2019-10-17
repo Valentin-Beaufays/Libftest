@@ -60,11 +60,8 @@ Part2_func_activation=('0' '0' '0' '0' '0' \
 '0' '0' '0' '0' '0' \
 '0' '0' '0' '0')
 
-Part2_func=('ft_memalloc.c' 'ft_memdel.c' 'ft_strnew.c' 'ft_strdel.c' 'ft_strclr.c' \
-'ft_striter.c' 'ft_striteri.c' 'ft_strmap.c' 'ft_strmapi.c' 'ft_strequ.c' \
-'ft_strnequ.c' 'ft_strsub.c' 'ft_strjoin.c' 'ft_strtrim.c' 'ft_strsplit.c' \
-'ft_itoa.c' 'ft_putchar.c' 'ft_putstr.c' 'ft_putendl.c' 'ft_putnbr.c' \
-'ft_putchar_fd.c' 'ft_putstr_fd.c' 'ft_putendl_fd.c' 'ft_putnbr_fd.c')
+Part2_func=('ft_strmapi.c' 'ft_strsub.c' 'ft_strjoin.c' 'ft_strtrim.c' 'ft_split.c' \
+'ft_itoa.c' 'ft_putchar_fd.c' 'ft_putstr_fd.c' 'ft_putendl_fd.c' 'ft_putnbr_fd.c')
 
 ###################################################
 #                 Bonus functions                 #
@@ -85,7 +82,9 @@ Additional_func=('ft_isblank.c' 'ft_iscntrl.c' 'ft_isgraph.c' 'ft_islower.c' \
 'ft_str_is_numeric.c' 'ft_str_is_printable.c' 'ft_str_is_uppercase.c' 'ft_strcapitalize.c' \
 'ft_strcasecmp.c' 'ft_strlowcase.c' 'ft_strndup.c' 'ft_strupcase.c' \
 'ft_itoa_base.c' 'ft_strncasecmp.c' 'ft_strcasestr.c' 'ft_strtok.c' 'ft_strcpy.c' \
-'ft_strncpy.c' 'ft_strcat.c' 'ft_strncat.c' 'ft_strstr.c' 'ft_strcmp.c')
+'ft_strncpy.c' 'ft_strcat.c' 'ft_strncat.c' 'ft_strstr.c' 'ft_strcmp.c' 'ft_memalloc.c' 'ft_memdel.c' \
+'ft_strnew.c' 'ft_strdel.c' 'ft_strclr.c' 'ft_striter.c' 'ft_striteri.c' 'ft_strmap.c' 'ft_putchar.c' \
+'ft_putstr.c' 'ft_putendl.c' 'ft_putnbr.c' 'ft_strequ.c' 'ft_strnequ.c')
 
 Additional_func_activation=('0' '0' '0' '0' \
 '0' '0' '0' '0' '0' \
